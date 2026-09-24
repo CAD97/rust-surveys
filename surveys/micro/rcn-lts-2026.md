@@ -84,6 +84,15 @@ Importance:
 > **justification**
 This objectively measures some of what goes into answering the previous question, based on properties people have suggested LTS should have in the past. Some properties are incompatible.
 
+### How long do you expect a Rust LTS release to receive support?
+
+**Please specify units in your answer.**
+
+Type: free form
+
+> **justification**
+This is the second of the two main LTS axis; we want to gauge the expectation of how long LTS users expect to be able to stay on one LTS release before being *required* to upgrade. We deliberately do not say what units to respond in to avoid priming. Note that both the absolute support duration and the ratio to release frequency are both meaningful insights.
+
 ### How often do you expect a new Rust LTS release?
 
 A "new release" means a new 1.X version. There is a new Rust Stable 1.X release version every six weeks.
@@ -94,15 +103,6 @@ Type: free form
 
 > **justification**
 This is the first of the two main LTS axis; we want to gauge the expectation of how frequently LTS users expect an LTS update to be available. We deliberately do not say what units to respond in to avoid priming.
-
-### How long do you expect a Rust LTS release to receive support?
-
-**Please specify units in your answer.**
-
-Type: free form
-
-> **justification**
-This is the second of the two main LTS axis; we want to gauge the expectation of how long LTS users expect to be able to stay on one LTS release before being *required* to upgrade. We deliberately do not say what units to respond in to avoid priming. Note that both the absolute support duration and the ratio to release frequency are both meaningful insights.
 
 ### What components do you expect support for as part of Rust LTS?
 
