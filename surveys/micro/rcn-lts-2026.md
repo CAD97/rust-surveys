@@ -1,6 +1,6 @@
 # Survey questions
 
-The goal of this survey is to gague expectations around a potential fist-party Rust LTS offering. The results will help inform a potential initiative if the demand is there.
+The goal of this survey is to gauge expectations around a potential fist-party Rust LTS offering. The results will help inform a potential initiative if the demand is there.
 
 ## Background
 
@@ -93,7 +93,7 @@ A "new release" means a new 1.X version. There is a new Rust Stable 1.X release 
 Type: free form
 
 > **justification**
-This is the first of the two main LTS axis; we want to gague the expectation of how frequently LTS users expect an LTS update to be available. We deliberately do not say what units to respond in to avoid priming.
+This is the first of the two main LTS axis; we want to gauge the expectation of how frequently LTS users expect an LTS update to be available. We deliberately do not say what units to respond in to avoid priming.
 
 ### How long do you expect a Rust LTS release to receive support?
 
@@ -102,7 +102,7 @@ This is the first of the two main LTS axis; we want to gague the expectation of 
 Type: free form
 
 > **justification**
-This is the second of the two main LTS axis; we want to gague the expectation of how long LTS users expect to be able to stay on one LTS release before being *required* to upgrade. We deliberately do not say what units to respond in to avoid priming. Note that both the absolute support duration and the ratio to release frequency are both meaningful insights.
+This is the second of the two main LTS axis; we want to gauge the expectation of how long LTS users expect to be able to stay on one LTS release before being *required* to upgrade. We deliberately do not say what units to respond in to avoid priming. Note that both the absolute support duration and the ratio to release frequency are both meaningful insights.
 
 ### What components do you expect support for as part of Rust LTS?
 
@@ -129,7 +129,7 @@ Type: select all that apply
 - Other (open response)
 
 > **justification**
-What "Rust LTS" means in terms of support burden isn't obvious; is it "security patches and critical bug fixes" for the compiler, the standard library, and/or the rest of the toolchain? Do some people expect it to cover "extended batteries" from crates outside std? The straightforward answer would be extending whatever support we give the stable toolchain on whichever targets we proivde LTS for. We want to gague if this matches prospective LTS user expectations.
+What "Rust LTS" means in terms of support burden isn't obvious; is it "security patches and critical bug fixes" for the compiler, the standard library, and/or the rest of the toolchain? Do some people expect it to cover "extended batteries" from crates outside std? The straightforward answer would be extending whatever support we give the stable toolchain on whichever targets we provide LTS for. We want to gauge if this matches prospective LTS user expectations.
 
 ## Funding Rust LTS
 
@@ -140,7 +140,7 @@ What "Rust LTS" means in terms of support burden isn't obvious; is it "security 
 Type: free form
 
 > **justification**
-Enterprise users should be paying for that extended support. We avoid specifying units like "USD/user/month" or "USD/release" or "USD/project/year" to avoid priming expecations, even though this risks unitless answers.
+Enterprise users should be paying for that extended support. We avoid specifying units like "USD/user/month" or "USD/release" or "USD/project/year" to avoid priming expectations, even though this risks unitless answers.
 
 ### How much would you expect to pay for extended Rust LTS support durations?
 
